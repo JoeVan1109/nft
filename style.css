@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
+
+body{
+    background-color: hsl(216, 50%, 16%);
+}
+.attribution {  
+    font-family: 'Outfit', sans-serif;
+    background-color: hsl(215, 32%, 27%);
+    align-items: center;
+    border-radius: 16px;
+    margin: 0px;
+    position: absolute;
+    left: 390px;
+    top: 300px;
+    width: 437px;
+    height: 725px;
+}
+
+.titre{
+    color: hsl(0, 0%, 100%);
+    margin-left: 30px;
+    margin-top: auto;
+    margin-right: 30px;
+     }
+
+.texte{
+    color: hsl(215, 51%, 70%);
+    margin-left: 30px;
+     }
+
+.eth{
+    color: hsl(178, 100%, 50%);
+    margin-left: 30px;
+}
+
+.days{
+    color: hsl(215, 51%, 70%);
+    margin: 233px;
+    position: relative;
+    left: 25px;
+}
+.creation{
+    color: hsl(215, 51%, 70%);
+    margin-left: 30px;
+}
+
+.nom{
+    color: hsl(0, 0%, 100%);
+}
+
+.nft{
+    margin: 30px 30px 30px 30px;
+    border-radius: 16px;
+    width: 373px;
+    height: 373px;
+}
+.jules{
+    display: flex;
+    flex-wrap: nowrap;
+}
+.avatar{
+    margin: 30px 30px 30px 30px;
+    width: 60px;
+    position: relative;
+    left: 10px;
+}
+.bloc2{
+    position: relative;
+    top: 30px;
+    left: 60px;
+}
